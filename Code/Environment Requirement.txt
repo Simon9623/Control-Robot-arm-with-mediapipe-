@@ -1,0 +1,4 @@
+Environment Requirement:
+1. Mediapipe == 10.0.1
+2. opencv-python == 4.7.0.68
+3. pyserial 
